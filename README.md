@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balendin</h1>
-<h3 align="center">A passionate web & software developer from India</h3>
+<h3 align="center">A passionate web & software developer from Germany</h3>
 
 - 🔭 I’m currently working on [Zerium](https://zerium.fun)
 
